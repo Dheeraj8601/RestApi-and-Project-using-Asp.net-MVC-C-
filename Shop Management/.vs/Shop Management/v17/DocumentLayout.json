@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Shop Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|d:\\new folder\\shop management\\shop management\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58961F0F-D61F-427C-8CFC-6A69B673B201}|Shop Management\\Shop Management.csproj|solutionrelative:shop management\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Shop Management\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA3wF4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:36:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Shop Management\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:52:26.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Shop Management\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:51:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Models\\Order.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Order.cs",
+              "RelativeToolTip": "Shop Management\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:51:32.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Models\\Product.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Product.cs",
+              "RelativeToolTip": "Shop Management\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:47:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Shop Management\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Shop Management\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:12:15.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Program.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Program.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Program.cs",
+              "RelativeToolTip": "Shop Management\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:39:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shop Management\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Shop Management\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:20:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Shop Management\\Models\\Customer.cs",
+              "ToolTip": "D:\\New folder\\Shop Management\\Shop Management\\Models\\Customer.cs",
+              "RelativeToolTip": "Shop Management\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:21:54.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

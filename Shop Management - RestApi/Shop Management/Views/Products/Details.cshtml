@@ -1,0 +1,16 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Products";
+}
+<div>
+<div>
+<h1>Product Name : @Model.Name</h1>
+<p>Product Description : @Model.Description</p>
+<p>Price: @Model.Price.ToString("C")</p>
+</div>
+    <div>
+        <a asp-controller="Products" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+        <a asp-controller="Products" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary" style="width:150px">Edit</a>
+        <a asp-controller="Products" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger mt-2" style="width:150px">Delete</a>
+    </div>
+</div>

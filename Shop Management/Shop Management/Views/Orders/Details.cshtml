@@ -1,0 +1,35 @@
+﻿@model Order
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2><b>Customer Name :- </b>@ViewBag.Customers[@Model.CustomerId]</h2>
+
+<br /><br />
+<h2><b>Order Information</b></h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                <td>@ViewBag.Products[item.ProductId]</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+   <!-- <a asp-controller="Orders" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary" style="width:150px">Edit</a>
+    <a asp-controller="Orders" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger mt-2" style="width:150px">Delete</a> -->
+    <a asp-controller="Orders" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+
+</div>

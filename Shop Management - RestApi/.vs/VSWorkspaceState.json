@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shop Management",
+    "\\Shop Management\\Controllers",
+    "\\Shop Management\\Data",
+    "\\Shop Management\\Models",
+    "\\Shop Management\\Views",
+    "\\Shop Management\\wwwroot"
+  ],
+  "SelectedNode": "\\Shop Management\\Controllers\\OrdersController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,38 @@
+﻿@model Shop_Management.Models.Customer
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+
+<form method="post" asp-action="Delete">
+    <div class="border p-3 mt-4">
+        <!--div class="text-danger" asp-validation-summary="All"></div-->
+        <div class="row pb-2">
+            <h2 class="text-primary">Delete Customer</h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="FirstName" class="mb-1"></label>
+            <input asp-for="FirstName" disabled class="form-control" id="FirstName" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" class="mb-1"></label>
+            <input asp-for="LastName" disabled class="form-control" id="LastName" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="mb-1"></label>
+            <input asp-for="Email" disabled class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+        <a asp-controller="Customers" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

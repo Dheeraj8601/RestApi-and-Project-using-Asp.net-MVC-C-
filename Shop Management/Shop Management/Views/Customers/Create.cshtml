@@ -1,0 +1,43 @@
+﻿@model Shop_Management.Models.Customer
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<form method="post" asp-action="Create">
+    <div class="border p-3 mt-4">
+        <!--div class="text-danger" asp-validation-summary="All"></div-->
+        <div class="row pb-2">
+            <h2 class="text-primary">Create Customer</h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="FirstName" class="mb-1"></label>
+            <input asp-for="FirstName" class="form-control" id="FirstName" />
+            <span class="text-danger text-end" asp-validation-for="FirstName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" class="mb-1"></label>
+            <input asp-for="LastName" class="form-control" id="LastName" />
+            <span class="text-danger text-end" asp-validation-for="LastName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="mb-1"></label>
+            <input asp-for="Email" class="form-control" />
+            <span class="text-danger text-end" asp-validation-for="Email"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="mb-1"></label>
+            <input asp-for="Password" class="form-control" />
+            <span class="text-danger text-end" asp-validation-for="Password"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+        <a asp-controller="Customers" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

@@ -1,0 +1,41 @@
+﻿@model Shop_Management.Models.Product
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+
+
+
+<form method="post" asp-action="Edit">
+    <div class="border p-3 mt-4">
+        <!--div class="text-danger" asp-validation-summary="All"></div-->
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit Product</h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name" class="mb-1"></label>
+            <input asp-for="Name" class="form-control" id="Name" />
+            <span class="text-danger text-end" asp-validation-for="Name"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="mb-1"></label>
+            <input asp-for="Description" class="form-control" id="Description" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Price" class="mb-1"></label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="width:150px">Edit</button>
+        <a asp-controller="Products" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
